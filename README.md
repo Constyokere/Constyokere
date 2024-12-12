@@ -18,13 +18,13 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Virtual Assistant</h2>
+<h2>📺 Data Scientist</h2>
 
-- [Portfolio](https://delightmagnus.my.canva.site/)
+- [Portfolio](https://constanceokere.my.canva.site/)
 
 <h2>📺 Public Speaker</h2>
 
-- [Portfolio](https://delightmagnus.my.canva.site/)
+- [Portfolio](https://constanceokere.my.canva.site/)
 
 <h2> 🤳 Connect with me:</h2>
 
