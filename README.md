@@ -22,7 +22,11 @@
 
 - [Portfolio](https://constanceokere.my.canva.site/)
 
-<h2>📺 Public Speaker</h2>
+<h2>📺 Public Speaker/Elocution</h2>
+
+- [Portfolio](https://constanceokere.my.canva.site/)
+
+<h2>📺 Voice Over</h2> 
 
 - [Portfolio](https://constanceokere.my.canva.site/)
 
