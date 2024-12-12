@@ -26,7 +26,7 @@
 
 - [Portfolio](https://constanceokere.my.canva.site/)
 
-<h2>📺 Voice Over</h2> 
+<h2>📺 Voice Over Artist</h2> 
 
 - [Portfolio](https://constanceokere.my.canva.site/)
 
