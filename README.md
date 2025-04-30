@@ -37,10 +37,10 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/dexclisive/
-[youtube]: https://www.youtube.com/c/delightesuikup/
-[instagram]: https://www.instagram.com/delightmagnus/
-[linkedin]: https://linkedin.com/in/delightesuikup/
+[twitter]: https://twitter.com/Techbabe/
+[youtube]: https://www.youtube.com/c/constance okere/
+[instagram]: https://www.instagram.com/okereconstanceamarachi/
+[linkedin]: https://linkedin.com/in/constanceokere/
 
 <!--
 
